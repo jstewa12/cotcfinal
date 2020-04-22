@@ -1,0 +1,37 @@
+body {
+    text-align:center;
+    margin:auto;
+    background-color:#C6D8FF;
+    font-family:Poiret One;
+}
+
+header {
+    color:#C6D8FF;
+    background-color:#4C1036;
+    height:50px;
+}
+
+h1 {
+    font-size:40px;
+    color:#4C1036;
+}
+
+h2 {
+    color:#72195A;
+}
+
+p {
+    color:#6B5CA5;
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:25px;
+}
+
+a {
+    color:#C6D8FF;
+    padding:20px;
+}
+
+.nav {
+    line-height:45px;
+}
