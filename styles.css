@@ -36,7 +36,7 @@ a {
     padding:20px;
 }
 
-.planetlink {
+img.planetlink {
     width:300px;
     height:300px;
     padding:20px;
@@ -51,7 +51,7 @@ table {
 }
 
 @media screen and (max-width: 1050px) {
-    img {
+    img.planetlink {
         padding:1%;
     }
 }
@@ -64,7 +64,7 @@ table {
         display:block;
     }
 
-    img {
+    img.planetlink {
         max-width:600px;
         width:45%;
         height:45%;
