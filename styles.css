@@ -28,7 +28,17 @@ p {
     color:#6B5CA5;
     margin-top:10px;
     margin-bottom:10px;
-    font-size:25px;
+    font-size:30px;
+}
+
+p.caption {
+    font-size:17px;
+    color:black;
+    max-width:500px;
+    margin:auto;
+    padding-left:40px;
+    padding-right:40px;
+    padding-bottom:40px;
 }
 
 a {
