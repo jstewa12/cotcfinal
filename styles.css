@@ -70,11 +70,6 @@ table.planetnav {
 }
 
 @media screen and (max-width: 930px) {
-    td {
-        justify-content:center;
-        display:block;
-    }
-
     img.planetlink {
         max-width:600px;
         width:45%;
