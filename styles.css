@@ -55,7 +55,8 @@ img.ppr {
 }
 
 table {
-	width: 100%;
+	width:80%;
+    max-width:600px;
 }
 
 @media screen and (max-width: 1050px) {
@@ -67,9 +68,6 @@ table {
 @media screen and (max-width: 930px) {
     td {
         justify-content:center;
-        margin-left:auto;
-        margin-right:auto;
-        display:block;
     }
 
     img.planetlink {
